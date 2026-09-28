@@ -16,16 +16,14 @@ Cuando un pedido sea ambiguo, preguntá a cuál de los dos negocios se refiere (
 - Forecast de volumen de ventas (por ejemplo, el de **latas**. Para actualizarlo está el skill `rabieta-forecast-latas`).
 - Análisis de volumen y market share por región, canal, cliente y SKU.
 - Reportes y presentaciones para la dirección y para el equipo comercial.
-- <!-- TODO: agregar otros usos (presupuesto, incentivos, seguimiento de distribuidores, etc.) -->
 
 ## Glosario del negocio
 
-<!-- TODO: completar con los términos que usamos internamente -->
-- **Volumen**: <!-- unidad: ¿hectolitros (HL), litros, cajas? -->
-- **Market share**: <!-- fuente (Nielsen, Scentia, interna) y si es en volumen o en valor -->
-- **Reginald Lee**: región a mi cargo. <!-- listar zonas, provincias o distribuidores que la componen -->
-- **Latas / Botellas / Barril**: formatos de envase. <!-- confirmar -->
-- **Facón**: <!-- qué es (marca, empresa, categoría) y qué vendemos -->
+- **Volumen**: se mide en **hectolitros (HL)**.
+- **Market share**: fuente **Scentia**.
+- **Reginald Lee**: región a mi cargo. Abarca la **Provincia de Buenos Aires desde Quilmes hasta Necochea**, con límite en **Tandil**.
+- **Latas**: formato de envase con forecast propio.
+- **Facón**: cerveza de **República Artesanal**.
 
 ## Cómo quiero que trabajes
 
@@ -45,4 +43,4 @@ Cuando un pedido sea ambiguo, preguntá a cuál de los dos negocios se refiere (
 
 ## Calendario y cierres
 
-<!-- TODO: fecha de cierre mensual, cuándo llegan los datos reales, fechas de revisión de presupuesto -->
+- El mes cierra a **fin de mes**. Con el cierre se cargan los datos reales y se actualiza el forecast.
