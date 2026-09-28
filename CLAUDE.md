@@ -20,7 +20,7 @@ Cuando un pedido sea ambiguo, preguntá a cuál de los dos negocios se refiere (
 ## Glosario del negocio
 
 - **Volumen**: se mide en **hectolitros (HL)**.
-- **Market share**: fuente **Scentia**.
+- **Market share**: fuente **Scentia**. Se mide **en volumen y en valor**; aclarar siempre cuál se está mostrando.
 - **Reginald Lee**: región a mi cargo. Abarca la **Provincia de Buenos Aires desde Quilmes hasta Necochea**, con límite en **Tandil**.
 - **Latas**: formato de envase con forecast propio.
 - **Facón**: cerveza de **República Artesanal**.
